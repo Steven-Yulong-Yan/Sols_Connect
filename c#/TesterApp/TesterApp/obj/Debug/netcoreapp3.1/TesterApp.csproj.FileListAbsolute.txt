@@ -1,0 +1,12 @@
+/Users/steven/Downloads/Files/c#/TesterApp/TesterApp/bin/Debug/netcoreapp3.1/TesterApp.deps.json
+/Users/steven/Downloads/Files/c#/TesterApp/TesterApp/bin/Debug/netcoreapp3.1/TesterApp.runtimeconfig.json
+/Users/steven/Downloads/Files/c#/TesterApp/TesterApp/bin/Debug/netcoreapp3.1/TesterApp.runtimeconfig.dev.json
+/Users/steven/Downloads/Files/c#/TesterApp/TesterApp/bin/Debug/netcoreapp3.1/TesterApp.dll
+/Users/steven/Downloads/Files/c#/TesterApp/TesterApp/bin/Debug/netcoreapp3.1/TesterApp.pdb
+/Users/steven/Downloads/Files/c#/TesterApp/TesterApp/obj/Debug/netcoreapp3.1/TesterApp.csprojAssemblyReference.cache
+/Users/steven/Downloads/Files/c#/TesterApp/TesterApp/obj/Debug/netcoreapp3.1/TesterApp.AssemblyInfoInputs.cache
+/Users/steven/Downloads/Files/c#/TesterApp/TesterApp/obj/Debug/netcoreapp3.1/TesterApp.AssemblyInfo.cs
+/Users/steven/Downloads/Files/c#/TesterApp/TesterApp/obj/Debug/netcoreapp3.1/TesterApp.csproj.CoreCompileInputs.cache
+/Users/steven/Downloads/Files/c#/TesterApp/TesterApp/obj/Debug/netcoreapp3.1/TesterApp.dll
+/Users/steven/Downloads/Files/c#/TesterApp/TesterApp/obj/Debug/netcoreapp3.1/TesterApp.pdb
+/Users/steven/Downloads/Files/c#/TesterApp/TesterApp/obj/Debug/netcoreapp3.1/TesterApp.genruntimeconfig.cache
